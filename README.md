@@ -1,2 +1,0 @@
-# CodinGame
-Personal CodinGame solution
