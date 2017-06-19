@@ -129,7 +129,7 @@
   - [ ] VB.NET
 </details>
 
-<!-- <details><summary>Defibrillators</summary>
+<details><summary>Defibrillators</summary>
 
   - [ ] Bash
   - [ ] C
@@ -142,7 +142,7 @@
   - [ ] Groovy
   - [ ] Haskell
   - [ ] Java
-  - [ ] JavaScript
+  - [x] JavaScript
   - [ ] Lua
   - [ ] OCaml
   - [ ] ObjectiveC
@@ -172,7 +172,7 @@
   - [ ] Groovy
   - [ ] Haskell
   - [ ] Java
-  - [ ] JavaScript
+  - [x] JavaScript
   - [ ] Lua
   - [ ] OCaml
   - [ ] ObjectiveC
@@ -189,37 +189,7 @@
   - [ ] VB.NET
 </details>
 
-<details><summary>Mars Lander - Episode 1</summary>
-
-  - [ ] Bash
-  - [ ] C
-  - [ ] C#
-  - [ ] C++
-  - [ ] Clojure
-  - [ ] Dart
-  - [ ] F#
-  - [ ] Go
-  - [ ] Groovy
-  - [ ] Haskell
-  - [ ] Java
-  - [ ] JavaScript
-  - [ ] Lua
-  - [ ] OCaml
-  - [ ] ObjectiveC
-  - [ ] PHP
-  - [ ] Pascal
-  - [ ] Perl
-  - [ ] Python
-  - [ ] Python3
-  - [ ] Ruby
-  - [ ] Rust
-  - [ ] Scala
-  - [ ] Swift
-  - [ ] Swift3
-  - [ ] VB.NET
-</details>
-
-<details><summary>MIME Type</summary>
+<!-- <details><summary>Mars Lander - Episode 1</summary>
 
   - [ ] Bash
   - [ ] C
@@ -248,6 +218,36 @@
   - [ ] Swift3
   - [ ] VB.NET
 </details> -->
+
+<details><summary>MIME Type</summary>
+
+  - [ ] Bash
+  - [ ] C
+  - [ ] C#
+  - [ ] C++
+  - [ ] Clojure
+  - [ ] Dart
+  - [ ] F#
+  - [ ] Go
+  - [ ] Groovy
+  - [ ] Haskell
+  - [x] Java
+  - [x] JavaScript
+  - [ ] Lua
+  - [ ] OCaml
+  - [ ] ObjectiveC
+  - [x] PHP
+  - [ ] Pascal
+  - [ ] Perl
+  - [x] Python
+  - [x] Python3
+  - [ ] Ruby
+  - [ ] Rust
+  - [ ] Scala
+  - [ ] Swift
+  - [ ] Swift3
+  - [ ] VB.NET
+</details>
 
 <details><summary>Onboarding</summary>
 
