@@ -129,7 +129,7 @@
   - [ ] VB.NET
 </details>
 
-<details><summary>Defibrillators</summary>
+<!-- <details><summary>Defibrillators</summary>
 
   - [ ] Bash
   - [ ] C
@@ -247,7 +247,7 @@
   - [ ] Swift
   - [ ] Swift3
   - [ ] VB.NET
-</details>
+</details> -->
 
 <details><summary>Onboarding</summary>
 
@@ -339,7 +339,7 @@
   - [ ] VB.NET
 </details>
 
-<details><summary>The Descent</summary>
+<!-- <details><summary>The Descent</summary>
 
   - [ ] Bash
   - [ ] C
@@ -367,7 +367,7 @@
   - [ ] Swift
   - [ ] Swift3
   - [ ] VB.NET
-</details>
+</details> -->
 
 ### Medium
 
