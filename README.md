@@ -189,35 +189,35 @@
   - [ ] VB.NET
 </details>
 
-<!-- <details><summary>Mars Lander - Episode 1</summary>
+<details><summary>Mars Lander - Episode 1</summary>
 
-  - [ ] Bash
-  - [ ] C
+  - [x] Bash
+  - [x] C
   - [ ] C#
-  - [ ] C++
+  - [x] C++
   - [ ] Clojure
   - [ ] Dart
   - [ ] F#
   - [ ] Go
   - [ ] Groovy
   - [ ] Haskell
-  - [ ] Java
-  - [ ] JavaScript
+  - [x] Java
+  - [x] JavaScript
   - [ ] Lua
   - [ ] OCaml
   - [ ] ObjectiveC
-  - [ ] PHP
+  - [x] PHP
   - [ ] Pascal
   - [ ] Perl
-  - [ ] Python
-  - [ ] Python3
+  - [x] Python
+  - [x] Python3
   - [ ] Ruby
   - [ ] Rust
   - [ ] Scala
   - [ ] Swift
   - [ ] Swift3
   - [ ] VB.NET
-</details> -->
+</details>
 
 <details><summary>MIME Type</summary>
 
