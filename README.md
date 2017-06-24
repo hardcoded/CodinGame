@@ -480,8 +480,8 @@
   - [x] PHP
   - [ ] Pascal
   - [ ] Perl
-  - [ ] Python
-  - [ ] Python3
+  - [x] Python
+  - [x] Python3
   - [ ] Ruby
   - [ ] Rust
   - [ ] Scala
