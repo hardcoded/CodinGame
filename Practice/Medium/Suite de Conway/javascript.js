@@ -25,9 +25,8 @@ conway = (n) => {
     let ligne = R.toString();
     for (let i = 0; i < n; i++) {
         ligne = ligneSuiv(ligne)
-        // print(ligne.join(" "))
     }
-    print(ligne.join(" "))
+    ligne.length > 1 ? print(ligne.join(" ")) : print(ligne)
 }
 
 conway(L-1);
