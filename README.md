@@ -34,8 +34,7 @@
   - [ ] VB.NET
 </details>
 
-<details>
-  <summary>Power of Thor</summary>
+<details><summary>Power of Thor</summary>
 
   - [ ] Bash
   - [ ] C
@@ -453,6 +452,36 @@
   - [ ] Perl
   - [x] Python
   - [x] Python3
+  - [ ] Ruby
+  - [ ] Rust
+  - [ ] Scala
+  - [ ] Swift
+  - [ ] Swift3
+  - [ ] VB.NET
+</details>
+
+<details><summary>Conway sequence</summary>
+
+  - [ ] Bash
+  - [ ] C
+  - [ ] C#
+  - [ ] C++
+  - [ ] Clojure
+  - [ ] Dart
+  - [ ] F#
+  - [ ] Go
+  - [ ] Groovy
+  - [ ] Haskell
+  - [ ] Java
+  - [x] JavaScript
+  - [ ] Lua
+  - [ ] OCaml
+  - [ ] ObjectiveC
+  - [x] PHP
+  - [ ] Pascal
+  - [ ] Perl
+  - [ ] Python
+  - [ ] Python3
   - [ ] Ruby
   - [ ] Rust
   - [ ] Scala
