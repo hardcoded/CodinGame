@@ -401,6 +401,66 @@
   - [ ] VB.NET
 </details>
 
+<details><summary>Don't Panic - Episode 1</summary>
+
+  - [ ] Bash
+  - [ ] C
+  - [ ] C#
+  - [ ] C++
+  - [ ] Clojure
+  - [ ] Dart
+  - [ ] F#
+  - [ ] Go
+  - [ ] Groovy
+  - [ ] Haskell
+  - [x] Java
+  - [x] JavaScript
+  - [ ] Lua
+  - [ ] OCaml
+  - [ ] ObjectiveC
+  - [x] PHP
+  - [ ] Pascal
+  - [ ] Perl
+  - [x] Python
+  - [x] Python3
+  - [ ] Ruby
+  - [ ] Rust
+  - [ ] Scala
+  - [ ] Swift
+  - [ ] Swift3
+  - [ ] VB.NET
+</details>
+
+<details><summary>Shadows of the Knight - Episode 1</summary>
+
+  - [ ] Bash
+  - [ ] C
+  - [ ] C#
+  - [ ] C++
+  - [ ] Clojure
+  - [ ] Dart
+  - [ ] F#
+  - [ ] Go
+  - [ ] Groovy
+  - [ ] Haskell
+  - [x] Java
+  - [x] JavaScript
+  - [ ] Lua
+  - [ ] OCaml
+  - [ ] ObjectiveC
+  - [x] PHP
+  - [ ] Pascal
+  - [ ] Perl
+  - [x] Python
+  - [x] Python3
+  - [ ] Ruby
+  - [ ] Rust
+  - [ ] Scala
+  - [ ] Swift
+  - [ ] Swift3
+  - [ ] VB.NET
+</details>
+
 ### Hard
 
 ### Very Hard
