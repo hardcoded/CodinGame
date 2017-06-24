@@ -22,7 +22,7 @@ ligneSuiv = (ligne) => {
 }
 
 conway = (n) => {
-    let ligne = R.toString();
+    let ligne = [R.toString()];
     for (let i = 0; i < n; i++) {
         ligne = ligneSuiv(ligne)
     }
