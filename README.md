@@ -5,7 +5,6 @@
 ### Code Golf
 
 <details><summary>Temperatures</summary>
-
   - [ ] Bash
   - [ ] C
   - [ ] C#
@@ -34,9 +33,7 @@
   - [ ] VB.NET
 </details>
 
-<details>
-  <summary>Power of Thor</summary>
-
+<details><summary>Power of Thor</summary>
   - [ ] Bash
   - [ ] C
   - [ ] C#
@@ -70,7 +67,6 @@
 ### Easy
 
 <details><summary>ASCII Art</summary>
-
   - [ ] Bash
   - [ ] C
   - [ ] C#
@@ -100,7 +96,6 @@
 </details>
 
 <details><summary>Chuck Norris</summary>
-
   - [ ] Bash
   - [ ] C
   - [ ] C#
@@ -130,7 +125,6 @@
 </details>
 
 <details><summary>Defibrillators</summary>
-
   - [ ] Bash
   - [ ] C
   - [ ] C#
@@ -160,7 +154,6 @@
 </details>
 
 <details><summary>Horse-racing Duals</summary>
-
   - [ ] Bash
   - [ ] C
   - [ ] C#
@@ -190,7 +183,6 @@
 </details>
 
 <details><summary>Mars Lander - Episode 1</summary>
-
   - [x] Bash
   - [x] C
   - [ ] C#
@@ -220,7 +212,6 @@
 </details>
 
 <details><summary>MIME Type</summary>
-
   - [ ] Bash
   - [ ] C
   - [ ] C#
@@ -250,7 +241,6 @@
 </details>
 
 <details><summary>Onboarding</summary>
-
   - [ ] Bash
   - [ ] C
   - [ ] C#
@@ -280,7 +270,6 @@
 </details>
 
 <details><summary>Power of Thor - Episode 1</summary>
-
   - [x] Bash
   - [ ] C
   - [x] C#
@@ -310,7 +299,6 @@
 </details>
 
 <details><summary>Temperatures</summary>
-
   - [ ] Bash
   - [ ] C
   - [ ] C#
@@ -340,7 +328,6 @@
 </details>
 
 <!-- <details><summary>The Descent</summary>
-
   - [ ] Bash
   - [ ] C
   - [ ] C#
@@ -372,7 +359,6 @@
 ### Medium
 
 <details><summary>There is no Spoon - Episode 1</summary>
-
   - [ ] Bash
   - [ ] C
   - [ ] C#
@@ -402,7 +388,6 @@
 </details>
 
 <details><summary>Don't Panic - Episode 1</summary>
-
   - [ ] Bash
   - [ ] C
   - [ ] C#
@@ -432,7 +417,6 @@
 </details>
 
 <details><summary>Shadows of the Knight - Episode 1</summary>
-
   - [ ] Bash
   - [ ] C
   - [ ] C#
@@ -461,6 +445,35 @@
   - [ ] VB.NET
 </details>
 
+<details><summary>Conway sequence</summary>
+  - [ ] Bash
+  - [ ] C
+  - [ ] C#
+  - [ ] C++
+  - [ ] Clojure
+  - [ ] Dart
+  - [ ] F#
+  - [ ] Go
+  - [ ] Groovy
+  - [ ] Haskell
+  - [ ] Java
+  - [x] JavaScript
+  - [ ] Lua
+  - [ ] OCaml
+  - [ ] ObjectiveC
+  - [x] PHP
+  - [ ] Pascal
+  - [ ] Perl
+  - [ ] Python
+  - [ ] Python3
+  - [ ] Ruby
+  - [ ] Rust
+  - [ ] Scala
+  - [ ] Swift
+  - [ ] Swift3
+  - [ ] VB.NET
+</details>
+
 ### Hard
 
 ### Very Hard
@@ -471,7 +484,6 @@
 
 <!--
 <details><summary></summary>
-
   - [ ] Bash
   - [ ] C
   - [ ] C#
