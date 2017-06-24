@@ -21,12 +21,12 @@ ligneSuiv = (ligne) => {
     return suiv
 }
 
-conway = (n) => {
-    let ligne = [R.toString()];
-    for (let i = 0; i < n; i++) {
+conway = (seed, size) => {
+    let ligne = [seed.toString()];
+    for (let i = 0; i < size; i++) {
         ligne = ligneSuiv(ligne)
     }
     ligne.length > 1 ? print(ligne.join(" ")) : print(ligne)
 }
 
-conway(L-1);
+conway(R, L-1);
