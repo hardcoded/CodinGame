@@ -472,7 +472,7 @@
   - [ ] Go
   - [ ] Groovy
   - [ ] Haskell
-  - [ ] Java
+  - [x] Java
   - [x] JavaScript
   - [ ] Lua
   - [ ] OCaml
