@@ -140,12 +140,12 @@
   - [ ] Go
   - [ ] Groovy
   - [ ] Haskell
-  - [ ] Java
+  - [x] Java
   - [x] JavaScript
   - [ ] Lua
   - [ ] OCaml
   - [ ] ObjectiveC
-  - [ ] PHP
+  - [x] PHP
   - [ ] Pascal
   - [ ] Perl
   - [ ] Python
