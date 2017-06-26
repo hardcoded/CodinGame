@@ -338,35 +338,35 @@
   - [ ] VB.NET
 </details>
 
-<!-- <details><summary>The Descent</summary>
+<details><summary>The Descent</summary>
 
-  - [ ] Bash
-  - [ ] C
-  - [ ] C#
-  - [ ] C++
+  - [x] Bash
+  - [x] C
+  - [x] C#
+  - [x] C++
   - [ ] Clojure
   - [ ] Dart
   - [ ] F#
-  - [ ] Go
+  - [x] Go
   - [ ] Groovy
   - [ ] Haskell
-  - [ ] Java
-  - [ ] JavaScript
+  - [x] Java
+  - [x] JavaScript
   - [ ] Lua
   - [ ] OCaml
   - [ ] ObjectiveC
-  - [ ] PHP
+  - [x] PHP
   - [ ] Pascal
   - [ ] Perl
-  - [ ] Python
-  - [ ] Python3
+  - [x] Python
+  - [x] Python3
   - [ ] Ruby
   - [ ] Rust
-  - [ ] Scala
-  - [ ] Swift
-  - [ ] Swift3
-  - [ ] VB.NET
-</details> -->
+  - [x] Scala
+  - [x] Swift
+  - [x] Swift3
+  - [x] VB.NET
+</details>
 
 ### Medium
 
