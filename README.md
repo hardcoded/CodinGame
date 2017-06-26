@@ -158,7 +158,7 @@
   - [ ] VB.NET
 </details>
 
-<details><summary>Horse-racing Duals</summary>
+<details><summary>Horse-racing duals</summary>
 
   - [ ] Bash
   - [ ] C
@@ -175,7 +175,7 @@
   - [ ] Lua
   - [ ] OCaml
   - [ ] ObjectiveC
-  - [ ] PHP
+  - [x] PHP
   - [ ] Pascal
   - [ ] Perl
   - [ ] Python
