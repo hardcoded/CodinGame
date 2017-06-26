@@ -265,7 +265,7 @@
   - [ ] Lua
   - [ ] OCaml
   - [ ] ObjectiveC
-  - [ ] PHP
+  - [x] PHP
   - [ ] Pascal
   - [ ] Perl
   - [ ] Python
