@@ -370,7 +370,7 @@
 
 ### Medium
 
-<details><summary>There is no Spoon - Episode 1</summary>
+<details><summary>Conway sequence</summary>
 
   - [ ] Bash
   - [ ] C
@@ -460,7 +460,7 @@
   - [ ] VB.NET
 </details>
 
-<details><summary>Conway sequence</summary>
+<details><summary>There is no Spoon - Episode 1</summary>
 
   - [ ] Bash
   - [ ] C
