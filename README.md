@@ -2,9 +2,9 @@
 
 ## Multiplayer
 
-### Code Golf
+### Bot programming
 
-<details><summary>Temperatures</summary>
+<details><summary>Coders Strike Back</summary>
 
   - [ ] Bash
   - [ ] C
@@ -16,7 +16,7 @@
   - [ ] Go
   - [ ] Groovy
   - [ ] Haskell
-  - [X] Java
+  - [ ] Java
   - [x] JavaScript
   - [ ] Lua
   - [ ] OCaml
@@ -25,7 +25,39 @@
   - [ ] Pascal
   - [ ] Perl
   - [ ] Python
-  - [ ] Python3
+  - [] Python3
+  - [ ] Ruby
+  - [ ] Rust
+  - [ ] Scala
+  - [ ] Swift
+  - [ ] Swift3
+  - [ ] VB.NET
+</details>
+
+### Code Golf
+
+<details><summary>Don't Panic - Episode 1</summary>
+
+  - [ ] Bash
+  - [ ] C
+  - [ ] C#
+  - [ ] C++
+  - [ ] Clojure
+  - [ ] Dart
+  - [ ] F#
+  - [ ] Go
+  - [ ] Groovy
+  - [ ] Haskell
+  - [ ] Java
+  - [x] JavaScript
+  - [ ] Lua
+  - [ ] OCaml
+  - [ ] ObjectiveC
+  - [ ] PHP
+  - [ ] Pascal
+  - [ ] Perl
+  - [ ] Python
+  - [x] Python3
   - [ ] Ruby
   - [ ] Rust
   - [ ] Scala
@@ -47,6 +79,36 @@
   - [ ] Groovy
   - [ ] Haskell
   - [ ] Java
+  - [x] JavaScript
+  - [ ] Lua
+  - [ ] OCaml
+  - [ ] ObjectiveC
+  - [ ] PHP
+  - [ ] Pascal
+  - [ ] Perl
+  - [ ] Python
+  - [ ] Python3
+  - [ ] Ruby
+  - [ ] Rust
+  - [ ] Scala
+  - [ ] Swift
+  - [ ] Swift3
+  - [ ] VB.NET
+</details>
+
+<details><summary>Temperatures</summary>
+
+  - [ ] Bash
+  - [ ] C
+  - [ ] C#
+  - [ ] C++
+  - [ ] Clojure
+  - [ ] Dart
+  - [ ] F#
+  - [ ] Go
+  - [ ] Groovy
+  - [ ] Haskell
+  - [X] Java
   - [x] JavaScript
   - [ ] Lua
   - [ ] OCaml
