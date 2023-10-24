@@ -430,6 +430,36 @@
   - [x] VB.NET
 </details>
 
+<details><summary>Prefix Code</summary>
+
+  - [ ] Bash
+  - [ ] C
+  - [ ] C#
+  - [ ] C++
+  - [ ] Clojure
+  - [ ] Dart
+  - [ ] F#
+  - [ ] Go
+  - [ ] Groovy
+  - [ ] Haskell
+  - [ ] Java
+  - [ ] JavaScript
+  - [ ] Lua
+  - [ ] OCaml
+  - [ ] ObjectiveC
+  - [ ] PHP
+  - [ ] Pascal
+  - [ ] Perl
+  - [ ] Python
+  - [ ] Python3
+  - [ ] Ruby
+  - [ ] Rust
+  - [x] Scala
+  - [ ] Swift
+  - [ ] Swift3
+  - [ ] VB.NET
+</details>
+
 ### Medium
 
 <details><summary>Conway sequence</summary>
